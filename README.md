@@ -82,3 +82,24 @@ A: thm{91b1ac2606f36b935f465558213d7ebd}
 Q.4: What's the "Set a cookie" flag?
 A: thm{c10b5cb7546f359d19c747db2d0f47b3}
 ```
+## OWASP Juice Shop
+
+```
+Q.1: What's the Administrator's email address?
+A: admin@juice-sh.op
+Q.2: What parameter is used for searching?
+A: q (search?q=a)
+Q.3: What show does Jim reference in his review? 
+A: Star Trek
+```
+Injection
+
+SQL Injection is when an attacker enters a malicious or malformed query to either retrieve or tamper data from a database. And in some cases, log into accounts.
+
+Command Injection is when web applications take input or user-controlled data and run them as system commands. An attacker may tamper with this data to execute their own system commands. This can be seen in applications that perform misconfigured ping tests. 
+
+Email injection is a security vulnerability that allows malicious users to send email messages without prior authorization by the email server. These occur when the attacker adds extra data to fields, which are not interpreted by the server correctly. 
+
+```
+Q.1: Log into the administrator account!
+A: 
