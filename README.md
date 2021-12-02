@@ -102,4 +102,18 @@ Email injection is a security vulnerability that allows malicious users to send 
 
 ```
 Q.1: Log into the administrator account!
+A: 32a5e0f21372bcc1000a6088b93b458e41f0e02a
+Q.2: Log into the Bender account!
+A: fb364762a3c102b2db932069c0e6b78e738d4066
+```
+Broken Authentication
+```
+Q.1: Bruteforce the Administrator account's password!
+A: c2110d06dc6f81c67cd8099ff0ba601241f1ac0e
+Q.2: Reset Jim's password!
+A: 094fbc9b48e525150ba97d05b942bbf114987257 
+```
+Sensitive Data Exposure
+```
+Q.1: Access the Confidential Document!
 A: 
