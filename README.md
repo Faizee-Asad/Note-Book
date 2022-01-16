@@ -145,4 +145,19 @@ A: Sessions
 
 Q.2: In which User options sub-tab can you change the Burp Suite update behaviour?
 A: Misc
+
+Q.3: What is the name of the section within the User options "Misc" sub-tab which allows you to change the Burp Suite keybindings?
+A: Hotkeys
+
+Q.4: If we have uploaded Client-Side TLS certificates in the User options tab, can we override these on a per-project basis (Aye/Nay)?
+A: Aye
+```
+
+```
+Q.1: Which button would we choose to send an intercepted request to the target in Burp Proxy?
+A: Forward
+
+Q.2: What is the default keybind for this?
+Note: Assume you are using Windows or Linux (i.e. swap Cmd for Ctrl). 
+A: Ctrl+F
 ```
