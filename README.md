@@ -117,3 +117,32 @@ Sensitive Data Exposure
 ```
 Q.1: Access the Confidential Document!
 A: 
+```
+## Burp Suite: The Basics
+
+Burp Suite is a framework written in Java.
+Burp can capture and manipulate all of the traffic between an attacker and a webserver.
+```
+Q.1: Which edition of Burp Suite will we be using in this module?
+A: Burp Suite Community
+
+Q.2: Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?
+A: Burp Suite Enterprise
+
+Q.3: Burp Suite is frequently used when attacking web applications and ______ applications.
+A: Mobile
+```
+```
+Q.1: Which Burp Suite feature allows us to intercept requests between ourselves and the target?
+A: Proxy
+
+Q.2: Which Burp tool would we use if we wanted to bruteforce a login form?
+A: Intruder
+```
+```
+Q.1: In which Project options sub-tab can you find reference to a "Cookie jar"?
+A: Sessions
+
+Q.2: In which User options sub-tab can you change the Burp Suite update behaviour?
+A: Misc
+```
